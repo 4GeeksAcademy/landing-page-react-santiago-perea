@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Jumbotron() { 
     return (
-        <div className="container " style={{"padding": "100px"}}>
+        <div className="container jumbotron">
             <h1>A Warm Welcome</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.

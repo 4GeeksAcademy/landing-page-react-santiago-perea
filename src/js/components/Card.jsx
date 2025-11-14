@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Card() {
     return (
-        <div className="card" style={{"width": "18rem"}}>
+        <div className="card">
             <img src="https://play-lh.googleusercontent.com/lbU41pdjUEA0wMH8rhyq5mEAoBglAxb7NyRYvrVASdI2hExrKCgEUPZc__ijjESobA" className="card-img-top" alt="..."/>
                 <div className="card-body">
                     <h5 className="card-title">Card title</h5>

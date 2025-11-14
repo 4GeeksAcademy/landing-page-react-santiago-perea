@@ -9,3 +9,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card { 
+    width: 18rem; 
+}
+
+.jumbotron{
+    padding: 100px;
+}
