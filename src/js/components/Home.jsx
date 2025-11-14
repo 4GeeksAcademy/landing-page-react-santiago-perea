@@ -4,6 +4,7 @@ import React from "react";
 import BarraNavegacion from "./BarraNavegacion"
 import CardsRow from './CardsRow';
 import Jumbotron from './Jumbotron';
+import Footer from "./Footer";
 
 //create your first component
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
 			<BarraNavegacion/>
 			<Jumbotron/>
 			<CardsRow/>
+			<Footer />
 		</div>
 	);
 };
